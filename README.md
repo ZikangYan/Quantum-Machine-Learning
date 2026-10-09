@@ -19,7 +19,7 @@
 
 [3] Temporal-Spatial Quantum Graph Convolutional Neural Network Based on Schrödinger Approach for Traffic Congestion Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/9882032)]  (Traffic problem)
 
-[4] 
+[4] Zhang, Zhihong, et al. "Quantum-based subgraph convolutional neural networks." Pattern Recognition 88 (2019): 38-49. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)]
 
 
 ## Categories
@@ -47,4 +47,5 @@
 ## Recommand 
 [1] Zheng, Jin, et al. "A quantum spatial graph convolutional neural network model on quantum circuits." IEEE Transactions on Neural Networks and Learning Systems 36.3 (2024): 5706-5720. [[paper](https://ieeexplore.ieee.org/document/10499715)] 
 
-[2] Dettmers, Tim, et al. "Qlora: Efficient finetuning of quantized llms." Advances in neural information processing systems 36 (2023): 10088-10115. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)] [[code](https://github.com/artidoro/qlora)]  (high cites:8691)
+[2] Zhang H, Zhao Q, Zhou M, et al. A survey of quantum transformers: Architectures, challenges and outlooks[J]. arXiv preprint arXiv:2504.03192, 2025. [[paper](https://arxiv.org/pdf/2504.03192)]
+
